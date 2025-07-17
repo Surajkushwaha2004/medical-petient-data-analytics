@@ -1,1 +1,1 @@
-# medicial-pesent-data-analytics
+# medical-pesent-data-analytics
